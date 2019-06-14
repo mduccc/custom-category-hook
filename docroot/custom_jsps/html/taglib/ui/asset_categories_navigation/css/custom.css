@@ -1,0 +1,70 @@
+.portlet-asset-categories-navigation .portlet-content {
+	border: 1px solid #AFAFAF;
+    	border-top-width: 0;
+}
+
+.portlet-asset-categories-navigation .portlet-topper {
+	background: #00aaff
+}
+
+.portlet-asset-categories-navigation .portlet-title{
+	text-align: center !important;
+}
+
+.portlet-asset-categories-navigation  hr {
+	margin: 0 !important;
+    border: 0;
+        border-top-color: currentcolor;
+        border-top-style: none;
+        border-top-width: 0px;
+        border-bottom-color: currentcolor;
+        border-bottom-style: none;
+        border-bottom-width: 0px;
+    border-top: 1px solid #AFAFAF;
+    border-bottom: 1px solid white;
+}
+.portlet-asset-categories-navigation .hr_first {
+	display: none !important;
+}
+
+.portlet-asset-categories-navigation .accordion-inner {
+    padding: 0 !important;
+    border-top: 0 !important;
+}
+
+.portlet-asset-categories-navigation .accordion {
+    margin-bottom: 0 !important;
+}
+
+.portlet-asset-categories-navigation .accordion-heading .accordion-toggle {
+    display: block;
+    padding: 0 !important
+}
+
+.portlet-asset-categories-navigation ul, .aui ol {
+    padding: 0;
+    margin: 0 !important;
+}
+
+.portlet-asset-categories-navigation .lfr-asset-category-list li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0 !important;
+}
+
+.portlet-asset-categories-navigation .tree-node-leaf {
+    margin-left: 0 !important;
+}
+
+.portlet-asset-categories-navigation .tree-node a {
+	color: black !important;
+	font-size: 14px !important;
+}
+
+.portlet-asset-categories-navigation .portlet {
+	margin-bottom: 0 !important;
+}
+
+.portlet-asset-categories-navigation .portlet-content {
+    padding: 0 !important;
+}
